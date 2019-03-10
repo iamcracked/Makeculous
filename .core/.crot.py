@@ -12,7 +12,7 @@ print(" ╩ ╩╩ ╩╩ ╩╚═╝╚═╝╚═╝╩═╝╚═╝╚═
 print("   \033[1;36m[\033[0;31m+\033[1;36m] \033[0;36mAuthor: \033[0;37mNjank Soekamti")
 print("   \033[1;36m[\033[0;31m+\033[1;36m] \033[0;36mYoutube: \033[0;37mNjank Soekamti")
 print("   \033[1;36m[\033[0;31m+\033[1;36m] \033[0;36mFacebook:\033[0;37m Njank Soekamti")
-print("   \033[1;36m[\033[0;31m+\033[1;36m] \033[0;36mTelegram:\033[0;37m @HDRXDROID")
+print("   \033[1;36m[\033[0;31m+\033[1;36m] \033[0;36mTelegram:\033[0;37m @HDRXDROID")f
 print("   \033[1;36m[\033[0;31m+\033[1;36m] \033[0;36mGithub: \033[0;37mN74NK\n\033[0;36m")
 
 api_id = 491787
